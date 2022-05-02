@@ -1,14 +1,17 @@
-"github.io 블로그  첫 글"
-=======================
+---
 
-## "github.io 블로그 첫 글 작성해봅니다."
+title:  "github.io 블로그  첫 글"
 
-### categories:
+excerpt: "github.io 블로그 첫 글 작성해봅니다."
 
-  - Blog
-
-### tags:
+categories:
 
   - Blog
 
-<lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+tags:
+
+  - Blog
+
+last_modified_at: 2019-04-13T08:06:00-05:00
+
+---
